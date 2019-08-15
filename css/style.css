@@ -288,7 +288,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url("https://github.com/prasaddpathak/prasaddpathak.github.io/blob/master/img/prasad_bw.JPG");
+    background: url(../img/prasad_bw.JPG);
     background-size: cover;
     height: 100vh;
 }
