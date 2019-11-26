@@ -288,7 +288,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/prasad_bw.JPG);
+    background: url(../img/new4.jpeg);
     background-size: cover;
     height: 100vh;
 }
@@ -301,6 +301,8 @@ a.active {
 .disply-table {
     display: table;
     height: 100vh;
+    position:absolute;
+
 }
 
 
@@ -852,3 +854,12 @@ fieldset {
         font-size: 10px;
     }
 }
+
+
+
+/* ---- reset ---- */
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+} /* ---- particles.js container ---- */
