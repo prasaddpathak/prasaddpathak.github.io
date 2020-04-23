@@ -288,7 +288,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/new4.jpeg);
+    background: url(../img/new3.jpeg);
     background-size: cover;
     height: 100vh;
 }
@@ -797,7 +797,7 @@ fieldset {
     #home{
         background-position: 50% 0% !important;
     }
-    nav ul{
+    ul{
         padding-left: 0px;
         padding-right: 0px;
     }
