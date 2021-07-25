@@ -83,7 +83,7 @@ $(document).ready(function () {
     $('#projects').waitForImages(function () {
         var $container = $('.portfolio_container');
         $container.isotope({
-            filter: '*',
+            filter: '.education',
         });
 
         $('.portfolio_filter a').click(function () {
